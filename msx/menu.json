@@ -1,0 +1,266 @@
+{
+    "headline": "'TIKRAI LEGALUS' FILMAI",
+    "menu": [
+        {
+            "style": "overlay",
+            "transparent": 2,
+            "label": "Pagrindinis",
+            "icon": "home",
+            "data": {
+                "type": "pages",
+                "template": {
+                    "icon": "panel",
+                    "color": "msx-glass"
+                },
+                "pages": [
+                    {
+                        "items": [
+                            {
+                                "type": "teaser",
+                                "layout": "0,0,11,5",
+                                "title": "'Tikrai Legalus' Filmai :)",
+                                "badge": "movie {ico:msx-red:movie}",
+                                "background": "https://images.hdqwalls.com/download/miles-morales-dynamic-presence-7x-1920x1080.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "separator",
+            "label": "FILMAI"
+        },
+        {
+            "icon": "movie",
+            "iconColor": "blue",
+            "label": "{col:msx-blue} Animacija",
+            "data": {
+                "type": "pages",
+                "template": {
+                    "type": "separate",
+                    "layout": "0,0,2,4",
+                    "icon": "",
+                    "color": "msx-glass"
+                },
+                "items": [
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Troliai 3",
+                        "action": "video:https://2371755320.tapecontent.net/radosgw/vLv7kqlm8oULbX/YlzAP5RrumQs392To8T-Ct4r3ps7prn29Q4NJvrL3G1JEgyOde8GAwz_Xd82N4ekJ6vokpnOYT7gDlxzYOOS0TtqBMYU3Z_I-hxw6tv2ayBBoXtXOuu23GyGF2OA7BgEhokeIiZlF99IbKseGmqEt6pUOxE1lJLuvazQc4s7BmobEKy8fYAp6p27ywCjj16vnymwIa0q9NINt6XaYdLgir4Ih3lwSmp18iYt30l15KisE9TxGrM3hQBpqslfhO-R_jtUgyiecdUn8AjENVMd0mBFMLO3gRY2bAAN5w/5OgheFkEMfcDnsmASYW.mp4&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/lxoPJR6eR5nd6nHSKIkEIV4FQWe.jpg",
+                        "badge": "2023 LT"
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Leo",
+                        "action": "video:https://streamtape.com/get_video?id=8OqwzKPMMvCGVX&expires=1704180512&ip=GHusERWnDS9X&token=8JQw8n0x1ZOc&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg",
+                        "badge": "2023 LT"
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Žmogus-voras: aplink multivisatą",
+                        "action": "video:https://streamtape.com/get_video?id=Bk3odQ972vHypk6&expires=1704180778&ip=GHusERWnDS9X&token=7bnCOmFbxJn_&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+                        "badge": "2023 LT"
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Žmogus-Voras: Į naują visatą",
+                        "action": "video:https://streamtape.com/get_video?id=eqd4xKmMMySYGVl&expires=1704180846&ip=GHusERWnDS9X&token=Aqcaz_QWTW4r&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+                        "badge": "2018 LT"
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Pietų parkas: prisijungimas prie Panderverse",
+                        "action": "video:https://streamtape.com/get_video?id=q3oDXpD1oOTK6r&expires=1704181439&ip=GHusERWnDS9X&token=oDpwVL4z7PQW&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/18IsRVfs5MkkTcqTGlUAnka6sCh.jpg",
+                        "badge": "2023 LT"
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "WALL-E. Šiukšlių princo istorija",
+                        "action": "video:https://streamtape.com/get_video?id=RDyYW7oQajfdGJq&expires=1704181595&ip=GHusERWnDS9X&token=Dp2me7UZDLFj&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+                        "badge": "2008 LT"
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Monstrų Biuras",
+                        "action": "video:https://streamtape.com/get_video?id=Kz2Ov8J8PKHbM6&expires=1704181722&ip=GHusERWnDS9X&token=sG5d8Xvl_3Xd&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
+                        "badge": "2001 LT"
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Žuviukas Nemo",
+                        "action": "video:https://streamtape.com/get_video?id=O48YXkxweJHZ0ay&expires=1704181789&ip=GHusERWnDS9X&token=hjgleGLxH51N&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/wTLyzRc4Dr9dHgwh3EXUKnveA6Q.jpg",
+                        "badge": "2003 LT"
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Aukštyn",
+                        "action": "video:https://streamtape.com/get_video?id=oDGLGk7ALJuJlwx&expires=1704181846&ip=GHusERWnDS9X&token=o8VMiQnxJvKQ&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/eAdO0qa9m0NFSVLZ26PvCwmPlsr.jpg",
+                        "badge": "2009 LT"
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Liūtas karalius",
+                        "action": "video:https://streamtape.com/get_video?id=lOkdopXdmPs7r6e&expires=1704182032&ip=GHusERWnDS9X&token=XBfriDjEW67t&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+                        "badge": "1994 LT"
+                    }
+                ]
+            }
+        },
+        {
+            "icon": "movie",
+            "iconColor": "red",
+            "label": "{col:msx-red}Drama",
+            "data": {
+                "type": "pages",
+                "template": {
+                    "type": "separate",
+                    "layout": "0,0,2,4",
+                    "icon": "",
+                    "color": "msx-glass"
+                },
+                "items": [
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Ateiviai pagrobė mano tėvus ir paliko mane",
+                        "action": "video:https://streamtape.com/get_video?id=jl0QzWAvLQUzRwZ&expires=1704137657&ip=GHusERWnDS9X&token=RH0ystvrd-fH&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/5rZed6NP0ZdmvU2UNeLqMddwAKu.jpg",
+                        "badge": " 2023 LT"
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Kaimynai",
+                        "action": "video:https://streamtape.com/get_video?id=m9POwMdzKKibYGA&expires=1704137793&ip=GHusERWnDS9X&token=vzUsyqulOBWC&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/ukhbDB4hvCbx3HBsEVL65w9NP2k.jpg",
+                        "badge": "2020 LT"
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Laidotuvės",
+                        "action": "video:https://streamtape.com/get_video?id=LpwzpJjRDgcR1vD&expires=1704181190&ip=GHusERWnDS9X&token=EMzTaBhvXc3Z&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg",
+                        "badge": "2023 LT"
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Openheimeris",
+                        "action": "video:https://streamtape.com/get_video?id=b7kbjrj01jFDRQ&expires=1704181284&ip=GHusERWnDS9X&token=boH48460dF4Y&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+                        "badge": "2023 LT"
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Liūtas karalius",
+                        "action": "video:https://streamtape.com/get_video?id=lOkdopXdmPs7r6e&expires=1704182032&ip=GHusERWnDS9X&token=XBfriDjEW67t&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+                        "badge": "1994 LT"
+                    }
+                ]
+            }
+        },
+        {
+            "icon": "movie",
+            "label": "{col:msx-yellow}Komedija",
+            "data": {
+                "type": "pages",
+                "template": {
+                    "type": "separate",
+                    "layout": "0,0,2,4",
+                    "icon": "",
+                    "color": "msx-glass"
+                },
+                "items": [
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Kaimynai",
+                        "action": "video:https://streamtape.com/get_video?id=m9POwMdzKKibYGA&expires=1704137793&ip=GHusERWnDS9X&token=vzUsyqulOBWC&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/ukhbDB4hvCbx3HBsEVL65w9NP2k.jpg",
+                        "badge": "2020 "
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Geriausios. Kalėdos. Iš visų!",
+                        "action": "video:https://streamtape.com/get_video?id=VmBMzJ4W3WIk6w&expires=1704140754&ip=GHusERWnDS9X&token=bLQ4MdzOSkbS&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/yNPgjXeeb7vdNI7AQB5SWkkk6si.jpg",
+                        "badge": "2023 "
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Laidotuvės",
+                        "action": "video:https://streamtape.com/get_video?id=LpwzpJjRDgcR1vD&expires=1704181190&ip=GHusERWnDS9X&token=EMzTaBhvXc3Z&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg",
+                        "badge": "2023 LT"
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Nieko asmeniško",
+                        "action": "video:https://streamtape.com/get_video?id=O4jkrqzxyGfZPdV&expires=1704181343&ip=GHusERWnDS9X&token=9OxKSnxN17YD&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/4K7gQjD19CDEPd7A9KZwr2D9Nco.jpg",
+                        "badge": "2023 LT"
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Pietų parkas: prisijungimas prie Panderverse",
+                        "action": "video:https://streamtape.com/get_video?id=q3oDXpD1oOTK6r&expires=1704181439&ip=GHusERWnDS9X&token=oDpwVL4z7PQW&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/18IsRVfs5MkkTcqTGlUAnka6sCh.jpg",
+                        "badge": "2023 LT"
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Žmogus-Voras: Į naują visatą",
+                        "action": "video:https://streamtape.com/get_video?id=eqd4xKmMMySYGVl&expires=1704180846&ip=GHusERWnDS9X&token=Aqcaz_QWTW4r&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+                        "badge": "2018 LT"
+                    },
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Monstrų Biuras",
+                        "action": "video:https://streamtape.com/get_video?id=Kz2Ov8J8PKHbM6&expires=1704181722&ip=GHusERWnDS9X&token=sG5d8Xvl_3Xd&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
+                        "badge": "2001 LT"
+                    },
+                    
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Aukštyn",
+                        "action": "video:https://streamtape.com/get_video?id=oDGLGk7ALJuJlwx&expires=1704181846&ip=GHusERWnDS9X&token=o8VMiQnxJvKQ&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/eAdO0qa9m0NFSVLZ26PvCwmPlsr.jpg",
+                        "badge": "2009 LT"
+                    }
+                ]
+            }
+        },
+        {
+            "icon": "movie",
+            "label": "{col:msx-blue}Kriminalinei",
+            "data": {
+                "type": "pages",
+                "template": {
+                    "type": "separate",
+                    "layout": "0,0,2,4",
+                    "icon": "",
+                    "color": "msx-glass"
+                },
+                "items": [
+                    {
+                        "badgeColor": "msx-blue",
+                        "title": "Tavo laiminga diena",
+                        "action": "video:https://streamtape.com/get_video?id=lqlr43OMbBt70O9&expires=1704142134&ip=GHusERWnDS9X&token=WLe_jIuUjR85&stream=1",
+                        "image": "https://image.tmdb.org/t/p/w185/oDJ1Jl0vbbrsZd7HAMMmcY3rh7B.jpg",
+                        "badge": "2023 "
+                    }
+                ]
+            }
+        }
+    ]
+}
